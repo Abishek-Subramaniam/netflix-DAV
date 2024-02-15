@@ -1,2 +1,2 @@
 # netflix-DAV
-Utilized NumPy and Pandas for efficient data retrieval, cleaning, and transformation. Employed Seaborn and Matplotlib to create a variety of visualizations.
+Utilized NumPy and Pandas for efficient data retrieval, cleaning, and transformation. Employed Seaborn and Matplotlib to create a variety of visualizations, including bar, count plots for analysing categorical data distribution. Line charts to visualize trends and patterns over time. Heatmaps for correlation analysis between different variables. Box plots for identifying outliers and distribution characteristics.
